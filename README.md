@@ -1,2 +1,2 @@
-#Movie App React
+Movie App React
 Приложение для отображения базы фильмов
